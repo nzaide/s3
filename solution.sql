@@ -60,7 +60,7 @@ INSERT INTO posts (title, content, datetime_posted, author_id)
 	"Third Code",
 	"Welcome to Mars!",
 	"2021-01-02 03:00:00",
-	3
+	2
 );
 
 
