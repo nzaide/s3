@@ -51,7 +51,7 @@ INSERT INTO posts (title, content, datetime_posted, author_id)
 	"Second Code",
 	"Hello Earth!",
 	"2021-01-02 02:00:00",
-	2
+	1
 );
 
 
